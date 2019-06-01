@@ -895,10 +895,10 @@
   resolved "https://registry.yarnpkg.com/@veams/bp-mock-api/-/bp-mock-api-1.0.3.tgz#82454a83ce8f291e9b29ccb8414bb171b84488ce"
   integrity sha512-7evlK+j2LOhcYyNG4uxxRifN8SM54WRgrHfVgLGXJKn+c6bHZW+UJ0+Ja2iZnA/pNZb+t4+fb30AZHXIlerHfQ==
 
-"@veams/component@^1.2.3":
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/@veams/component/-/component-1.3.0.tgz#2230d7dbbbcb6879054a0d4686955308512d39a2"
-  integrity sha512-kxDKdcEh6A1MX5kowW3u3iHgD7HAEqRG+NnOaSeBbVWTomaRBx0U0hcJpT5BgH5qlcUxQqbMIfpYqlfAw0FT/A==
+"@veams/component@^1.3.1":
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/@veams/component/-/component-1.3.1.tgz#dbf8322e48c5a69ec64e10fe8e07baf6be4f92da"
+  integrity sha512-LB2kJan/1NEF5WRjRfQQQzV1nG8HYgt9t6M470y5+rzkvLkhZf+BdxgmHZQaBN7b8J/x7fgIygBMVZXiQlVTjA==
   dependencies:
     "@veams/base" "^1.0.0"
 
