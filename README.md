@@ -1,4 +1,4 @@
-# veams-workshoü
+# veams-workshop
 
 The project is build with `@veams/cli`. You can add or modify settings in the provided `veams-cli.json`.
 
