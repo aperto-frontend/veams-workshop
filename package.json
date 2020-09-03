@@ -33,7 +33,7 @@
         "@veams/plugin-vent": "^1.0.0",
         "@veams/query": "^2.2.24",
         "@veams/rx-store": "^0.0.1",
-        "lazysizes": "^4.0.4",
+        "lazysizes": "^5.2.1",
         "rxjs": "^6.5.2"
     },
     "devDependencies": {
