@@ -85,7 +85,7 @@
         "mini-css-extract-plugin": "^0.5.0",
         "mkdirp": "^0.5.1",
         "morgan": "^1.8.2",
-        "node-sass": "^4.7.2",
+        "node-sass": "^4.13.1",
         "node-sass-magic-importer": "^5.0.3",
         "nodemon": "^1.14.0",
         "npm-run-all": "^4.1.1",
